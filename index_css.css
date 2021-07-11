@@ -1,0 +1,17 @@
+.moving_center{
+    text-align: center;
+}
+
+.h1{
+    color: red;
+}
+
+.p{
+    color: darkorange;
+}
+
+.button{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
